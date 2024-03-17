@@ -1,5 +1,5 @@
 # simulating_surface_eeg
-It is a python script for simulating surface eeg on some given user inputs.
+It is a python script for simulating eeg on some given user inputs.
 
 The workflow is divided into three parts:
 
